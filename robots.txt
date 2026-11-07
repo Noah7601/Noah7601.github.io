@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Yeti
+User-agent: Daum
+User-agent: DuckAssistBot
+User-agent: meta-externalagent
+User-agent: Amazonbot
+Allow: /
+
+Sitemap: https://noah7601.github.io/sitemap-index.xml
