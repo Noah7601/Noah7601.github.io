@@ -3,8 +3,9 @@
 > 50만 원 넘는 물건은 한 번 사면 오래 씁니다. 쿠팡 실제 판매가를 매일 수집해 비교표와 30일 가격 추이로 정리합니다.
 
 ## 비교 페이지 (쿠팡 현재가 + 30일 가격 추이, 매일 06시 KST 갱신)
-- [50만 원 이상 매트리스, 지금 쿠팡에서 뭐가 제일 싼가요?](https://noah7601.github.io/compare/mattress-premium/): 제품 17개, 2026-11-08 갱신
-- [스토케·부가부·뉴나 유모차와 뉴나·맥시코시·조이 회전형 카시트, 지금 쿠팡 가격은?](https://noah7601.github.io/compare/stroller-carseat-premium/): 제품 25개, 2026-11-08 갱신
+- [50만 원 이상 매트리스, 지금 쿠팡에서 뭐가 제일 싼가요?](https://noah7601.github.io/compare/mattress-premium/): 제품 18개, 2026-11-08 갱신
+- [뉴나·맥시코시·조이 회전형 카시트, 지금 쿠팡 가격은?](https://noah7601.github.io/compare/carseat-rotating/): 제품 17개, 2026-11-08 갱신
+- [스토케·부가부·뉴나 유모차, 지금 쿠팡 가격은?](https://noah7601.github.io/compare/stroller-premium/): 제품 13개, 2026-11-08 갱신
 - [허먼밀러·스틸케이스·시디즈 고급 의자, 지금 쿠팡 가격은?](https://noah7601.github.io/compare/office-chair-premium/): 제품 20개, 2026-11-08 갱신
 
 ## 운영
